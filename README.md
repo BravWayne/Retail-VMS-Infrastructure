@@ -54,15 +54,3 @@ Building a system this size required solving several severe hardware bottlenecks
 
 Status: Deployed and actively managing 240+ cameras across international borders with near-zero recurring software costs.
 
-
-### Step 2: Paste it into GitHub
-1. Go to your `Retail-VMS-Infrastructure` repository (or whatever you named it).
-2. Click the pencil icon to edit the README.
-3. Paste all the code above exactly as it is. 
-4. Click **Commit changes**.
-
-When you view the saved page, GitHub will automatically read that ` ```mermaid ` block and draw a beautiful flowchart box right in the middle of your document!
-
-Look at what we've accomplished: You have a professional bio, a clean software app (TrustMe), an AI/Data MVP (Anees), and a heavyweight enterprise hardware architecture project (MediaMTX) completely documented. 
-
-Do you want to tackle adding your "Currently Learning" project (the commission and incentive app) to finish off the profile, or is there another project you want to document first?
