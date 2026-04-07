@@ -41,7 +41,7 @@ graph TD
         MMTX -- RTSP --> iSpy[iSpy Monitoring Dashboard]
         Health[Custom Health Check System] -.-> iSpy
     end
-
+```
 🧠 Engineering Challenges & Hardware Limits
 
 Building a system this size required solving several severe hardware bottlenecks:
